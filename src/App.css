@@ -15,33 +15,28 @@
   background-color: #672280;
   color: #ffff;
   padding: 15px 20px;
+  min-width: 350px;
 }
-
-/* .header-content{
-   font-size: 12px;
-   font-weight: 400;
-} */
 
 .header-logo{
   height: 100%;
 }
 
 .header-title{
-  margin-right: auto;
   font-size: 1.25rem;
   font-weight: bold;
 }
 
 main{
-  padding: 20px;
+  padding: 10px;
 }
 
 .form{
   display: grid;
   grid-template-rows: 30px 30px;
-  gap: 12px;
+  gap: 10px;
   grid-template-columns: 1fr 1fr;
-  padding: 15px;
+  padding: 10px;
 }
 
 .form-input{
