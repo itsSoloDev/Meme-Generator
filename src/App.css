@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1320px;
   margin: 0 ;
 }
 
@@ -15,7 +15,7 @@
   background-color: #672280;
   color: #ffff;
   padding: 15px 20px;
-  min-width: 350px;
+  min-width: 300px;
 }
 
 .header-logo{
@@ -28,12 +28,12 @@
 }
 
 main{
-  padding: 10px;
+  padding: 8px;
 }
 
 .form{
   display: grid;
-  grid-template-rows: 30px 30px;
+  grid-template-rows: 25px 25px;
   gap: 10px;
   grid-template-columns: 1fr 1fr;
   padding: 10px;
@@ -44,6 +44,7 @@ main{
   border-radius: 5px;
   border: 1px solid #D1D5DB;
   text-indent: 5px;
+  min-width: 130px;
 }
 
 .form-button{
